@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Van-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vparthi
+Implementation-Vendor-Id: com.boot
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
